@@ -1,4 +1,4 @@
-# auto-commit
+# auto-commit dari Mazipan (https://github.com/mazipan/auto-commit/)
 
 🌳 Making green your Github stats, powered by [Github Actions](https://github.com/features/actions)
 
